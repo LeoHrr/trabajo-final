@@ -1,0 +1,62 @@
+/** {
+    box-sizing: border-box;
+  }*/
+main{
+    background-color: rgb(231, 231, 231);
+}
+body{
+    background-image: url("../img/logo\ leon.jpg");
+}
+
+#logo {
+    width: 55px;
+}
+.img-center {
+    height: 500px;
+    display:block;
+    margin: auto; 
+    opacity: 1;
+    transition: 1s;
+    border-radius: 10px;
+}
+
+.img-center:hover {
+    filter: opacity(.5);
+    
+}
+section h4{
+    
+    color: rgb(177, 115, 0);
+    text-align: center;
+}
+/*.caja { 
+    box-sizing: content-box;
+    width: 10%;
+    padding: 5px;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: #ffffff; 
+    font-size: 18px; 
+    font-weight: 400; 
+    text-align: center; 
+    background: #7c7c7c; 
+    margin: 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    border: 2px solid #5878ca;}
+    */
+.cat {
+    width: 500px;
+    margin: 75px;
+    border-radius: 10px;
+    
+}
+.datos{
+    color: aliceblue;
+}
+.video{
+    text-align: center;
+}
+.video1{
+    height: 700px;
+    
+}
